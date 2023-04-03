@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "bukiy" {
-  bucket = "my-bucket79994ifty"
+  bucket = "my-bucket799yugolovia94ifty"
 
   tags = {
     Environment = "Production"
