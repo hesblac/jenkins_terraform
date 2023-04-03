@@ -6,7 +6,6 @@ provider "aws" {
 
 resource "aws_s3_bucket" "b" {
   bucket = "myawsbucket12345554555"
-  canned_acl    = "private"
 
   tags = {
     Name        = "My bucket"
