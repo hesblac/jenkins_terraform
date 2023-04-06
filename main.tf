@@ -2,8 +2,8 @@ provider "aws" {
   region = "us-east-1"
 }
 
-resource "aws_s3_bucket" "bukiy" {
-  bucket = "my-bucket799yugoyylovia94ifty"
+resource "aws_s3_bucket" "monicrosie" {
+  bucket = "my-buoyylovMon"
 
   tags = {
     Environment = "Production"
