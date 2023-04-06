@@ -2,7 +2,7 @@ provider "aws" {
   region = "us-east-1"
 }
 
-resource "aws_s3_bucket" "monicrosie" {
+resource "aws_s3_bucket" "monicrosielovie" {
   bucket = "my-buoyylovMon"
 
   tags = {
