@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "monicrosielovie" {
-  bucket = "my-buoyylov"
+  bucket = "my-buoyylovniggaraw"
 
   tags = {
     Environment = "Production"
